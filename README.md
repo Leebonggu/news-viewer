@@ -7,3 +7,7 @@ This is Newsviews using [NEWSAPI](https://newsapi.org/)
 - react
 - styled-component
 - react-router-dom
+
+## stduy
+- custom-hooks
+- aysnc in useEffect
